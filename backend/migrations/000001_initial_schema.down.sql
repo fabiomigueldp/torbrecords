@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS listening_sessions;
+DROP TABLE IF EXISTS chat_messages;
+DROP TABLE IF EXISTS user_preferences;
+DROP TABLE IF EXISTS playlist_tracks;
+DROP TABLE IF EXISTS playlists;
+DROP TABLE IF EXISTS tracks;
+DROP TABLE IF EXISTS albums;
+DROP TABLE IF EXISTS artists;
+DROP TABLE IF EXISTS users;
